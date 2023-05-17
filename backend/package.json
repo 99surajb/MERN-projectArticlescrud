@@ -1,12 +1,12 @@
 {
-  "name": "mern-e-com",
+  "name": "mern com",
   "version": "1.0.0",
-  "description": "E commerce mern stack application",
+  "description": " mern stack application",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Rushikesh",
+  "author": "suraj",
   "license": "ISC",
   "dependencies": {
     "cores": "^0.8.5",
